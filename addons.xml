@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.0.2b2" provider-name="dlazebnikostka">
+<addons><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.0.2b3" provider-name="dlazebnikostka">
 
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
