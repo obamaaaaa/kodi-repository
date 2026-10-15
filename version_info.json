@@ -1,9 +1,9 @@
 {
   "plugin.video.webshare.stream.cinema.v2": {
     "stable": {
-      "version": "2.2.1",
-      "zip": "plugin.video.webshare.stream.cinema.v2-2.2.1.zip",
-      "url": "https://obamaaaaa.github.io/kodi-repository/plugin.video.webshare.stream.cinema.v2/plugin.video.webshare.stream.cinema.v2-2.2.1.zip"
+      "version": "2.2.2",
+      "zip": "plugin.video.webshare.stream.cinema.v2-2.2.2.zip",
+      "url": "https://obamaaaaa.github.io/kodi-repository/plugin.video.webshare.stream.cinema.v2/plugin.video.webshare.stream.cinema.v2-2.2.2.zip"
     }
   },
   "repository.webshare.streamcinema": {
