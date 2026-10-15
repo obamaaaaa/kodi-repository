@@ -2,7 +2,7 @@
 <addon 
     id="plugin.video.webshare.stream.cinema.v2" 
     name="Webshare Stream Cinema V2" 
-    version="2.2.2" 
+    version="2.3.0b2" 
     provider-name="dlazebnikostka">
 
     <requires>
