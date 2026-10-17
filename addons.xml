@@ -23,7 +23,7 @@
         </assets>
     </extension>
 
-</addon><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.3.0b15" provider-name="dlazebnikostka">
+</addon><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.3.0b16" provider-name="dlazebnikostka">
 
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
