@@ -25,7 +25,7 @@
         </assets>
     </extension>
 
-</addon><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.4.0b2" provider-name="dlazebnikostka">
+</addon><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.4.0b4" provider-name="dlazebnikostka">
 
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
@@ -42,7 +42,8 @@
         <summary>Webshare Stream Cinema</summary>
         <description>Přehrávej filmy a seriály přes Webshare nebo HellSpy pomocí TheMovieDb. 
         
-*Tento plugin žádný obsah nešíří a neověřuje právní status souborů, které najde. Za to, co přehrává uživatel, nese odpovědnost on sám.*</description>
+<i>Tento plugin žádný obsah nešíří a neověřuje právní status souborů, které najde. Za to, co přehrává uživatel, nese odpovědnost on sám.</i>
+</description>
         <platform>all</platform>
         <language>cs</language>
         <assets>
