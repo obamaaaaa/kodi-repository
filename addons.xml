@@ -26,14 +26,14 @@
         </assets>
     </extension>
 
-</addon><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.5.0b10" provider-name="dlazebnikostka">
+</addon><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.5.0b11" provider-name="dlazebnikostka">
 
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
-        <import addon="plugin.program.autocompletion" optional="true" />
-        <import addon="service.upnext" optional="true" />
-        <import addon="script.embuary.info" optional="true" />
+        <import addon="plugin.program.autocompletion" />
+        <import addon="service.upnext" />
+        <import addon="script.embuary.info" />
     </requires>
 
     <extension point="xbmc.python.pluginsource" library="main.py">
