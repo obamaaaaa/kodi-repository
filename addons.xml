@@ -26,7 +26,7 @@
         </assets>
     </extension>
 
-</addon><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.5.0b29" provider-name="dlazebnikostka">
+</addon><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.5.0b31" provider-name="dlazebnikostka">
 
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
@@ -76,7 +76,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="skin.estuary.streamcinema" version="1.0.10" name="Estuary Stream Cinema" provider-name="StreamCinema, phil65, Ichabod Fletchman">
+</addon><addon id="skin.estuary.streamcinema" version="1.0.11" name="Estuary Stream Cinema" provider-name="StreamCinema">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 	</requires>
