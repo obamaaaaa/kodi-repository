@@ -1,4 +1,11 @@
 {
+  "plugin.video.nokturno": {
+    "stable": {
+      "version": "10.14.0",
+      "zip": "plugin.video.nokturno-10.14.0.zip",
+      "url": "https://obamaaaaa.github.io/kodi-repository/plugin.video.nokturno/plugin.video.nokturno-10.14.0.zip"
+    }
+  },
   "plugin.video.webshare.stream.cinema.v2": {
     "stable": {
       "version": "2.4.9",
