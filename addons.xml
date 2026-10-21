@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.4.10" provider-name="dlazebnikostka">
+<addons><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.4.9" provider-name="dlazebnikostka">
 
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
@@ -26,7 +26,7 @@
         </assets>
     </extension>
 
-</addon><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.5.0b20" provider-name="dlazebnikostka">
+</addon><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.5.0b21" provider-name="dlazebnikostka">
 
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
@@ -56,7 +56,27 @@
         </assets>
     </extension>
 
-</addon><addon id="skin.estuary.streamcinema" version="1.0.7" name="Estuary Stream Cinema" provider-name="StreamCinema, phil65, Ichabod Fletchman">
+</addon><addon id="repository.webshare.streamcinema" name="Webshare StreamCinema Repository" version="1.1.2" provider-name="dlazebnikostka">
+
+    <extension point="xbmc.addon.repository">
+        <dir>
+            <info compressed="false">https://obamaaaaa.github.io/kodi-repository/addons.xml</info>
+            <checksum>https://obamaaaaa.github.io/kodi-repository/addons.xml.md5</checksum>
+            <datadir zip="true">https://obamaaaaa.github.io/kodi-repository/</datadir>
+        </dir>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="cs">Repozitář pro Webshare Stream Cinema</summary>
+        <description lang="cs">Repo pro automatické aktualizace doplňku Webshare Stream Cinema.</description>
+        <platform>all</platform>
+        <provides>files</provides>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon><addon id="skin.estuary.streamcinema" version="1.0.8" name="Estuary Stream Cinema" provider-name="StreamCinema, phil65, Ichabod Fletchman">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 	</requires>
@@ -230,24 +250,4 @@
 		<disclaimer lang="zh_CN">Estuary 是 Kodi 的默认皮肤，删除它可能导致故障。</disclaimer>
 		<disclaimer lang="zh_TW">Estuary 是 Kodi 預設的佈景主題，移除它可能會造成問題</disclaimer>
 	</extension>
-</addon><addon id="repository.webshare.streamcinema" name="Webshare StreamCinema Repository" version="1.1.2" provider-name="dlazebnikostka">
-
-    <extension point="xbmc.addon.repository">
-        <dir>
-            <info compressed="false">https://obamaaaaa.github.io/kodi-repository/addons.xml</info>
-            <checksum>https://obamaaaaa.github.io/kodi-repository/addons.xml.md5</checksum>
-            <datadir zip="true">https://obamaaaaa.github.io/kodi-repository/</datadir>
-        </dir>
-    </extension>
-
-    <extension point="xbmc.addon.metadata">
-        <summary lang="cs">Repozitář pro Webshare Stream Cinema</summary>
-        <description lang="cs">Repo pro automatické aktualizace doplňku Webshare Stream Cinema.</description>
-        <platform>all</platform>
-        <provides>files</provides>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
 </addon></addons>
