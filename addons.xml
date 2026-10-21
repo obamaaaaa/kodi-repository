@@ -76,7 +76,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="skin.estuary.streamcinema" version="1.0.11" name="Estuary Stream Cinema" provider-name="StreamCinema">
+</addon><addon id="skin.estuary.streamcinema" version="1.0.12" name="Estuary Stream Cinema" provider-name="StreamCinema">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 	</requires>
