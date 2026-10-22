@@ -1,4 +1,11 @@
 {
+  "skin.estuary.streamcinema": {
+    "stable": {
+      "version": "1.0.14",
+      "zip": "skin.estuary.streamcinema-1.0.14.zip",
+      "url": "https://obamaaaaa.github.io/kodi-repository/skin.estuary.streamcinema/skin.estuary.streamcinema-1.0.14.zip"
+    }
+  },
   "plugin.video.webshare.stream.cinema.v2": {
     "stable": {
       "version": "2.4.9",
@@ -16,13 +23,6 @@
       "version": "1.1.2",
       "zip": "repository.webshare.streamcinema-1.1.2.zip",
       "url": "https://obamaaaaa.github.io/kodi-repository/repository.webshare.streamcinema/repository.webshare.streamcinema-1.1.2.zip"
-    }
-  },
-  "skin.estuary.streamcinema": {
-    "stable": {
-      "version": "1.0.14",
-      "zip": "skin.estuary.streamcinema-1.0.14.zip",
-      "url": "https://obamaaaaa.github.io/kodi-repository/skin.estuary.streamcinema/skin.estuary.streamcinema-1.0.14.zip"
     }
   }
 }
