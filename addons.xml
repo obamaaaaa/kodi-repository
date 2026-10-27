@@ -1,9 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.4.9" provider-name="dlazebnikostka">
+<addons><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.5.1" provider-name="dlazebnikostka">
 
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
+        <import addon="plugin.program.autocompletion" />
+        <import addon="service.upnext" />
+        <import addon="script.embuary.info" />
     </requires>
 
     <extension point="xbmc.python.pluginsource" library="main.py">
@@ -14,8 +17,8 @@
 
     <extension point="xbmc.addon.metadata">
         <summary>Webshare Stream Cinema</summary>
-        <description>Přehrávej filmy a seriály přes Webshare nebo HellSpy pomocí TheMovieDb. 
-        
+        <description>Přehrávej filmy a seriály přes různé úložistě s využitím TheMovieDb pro metadata o filmech a seriálech.
+
 <i>Tento plugin žádný obsah nešíří a neověřuje právní status souborů, které najde. Za to, co přehrává uživatel, nese odpovědnost on sám.</i>
 </description>
         <platform>all</platform>
