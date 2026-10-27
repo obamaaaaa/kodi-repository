@@ -26,7 +26,7 @@
         </assets>
     </extension>
 
-</addon><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.5.0b52" provider-name="dlazebnikostka">
+</addon><addon id="plugin.video.webshare.stream.cinema.v2" name="Webshare Stream Cinema V2" version="2.5.0b54" provider-name="dlazebnikostka">
 
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
@@ -44,7 +44,7 @@
 
     <extension point="xbmc.addon.metadata">
         <summary>Webshare Stream Cinema</summary>
-        <description>PĹ™ehrĂˇvej filmy a seriĂˇly pĹ™es Webshare, HellSpy a PĹ™ehrajto.cz pomocĂ­ TheMovieDb - veĹ™ejnĂ© databĂˇze filmĹŻ a seriĂˇlĹŻ. 
+        <description>Přehrávej filmy a seriály přes různé úložistě s využitím TheMovieDb pro metadata o filmech a seriálech.
 
 <i>Tento plugin ĹľĂˇdnĂ˝ obsah neĹˇĂ­Ĺ™Ă­ a neovÄ›Ĺ™uje prĂˇvnĂ­ status souborĹŻ, kterĂ© najde. Za to, co pĹ™ehrĂˇvĂˇ uĹľivatel, nese odpovÄ›dnost on sĂˇm.</i>
 </description>
