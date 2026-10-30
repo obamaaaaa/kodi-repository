@@ -6,9 +6,9 @@
       "url": "https://obamaaaaa.github.io/kodi-repository/plugin.video.webshare.stream.cinema.v2/plugin.video.webshare.stream.cinema.v2-2.5.1.zip"
     },
     "beta": {
-      "version": "2.5.1b3",
-      "zip": "plugin.video.webshare.stream.cinema.v2-2.5.1b3.zip",
-      "url": "https://obamaaaaa.github.io/kodi-repository/plugin.video.webshare.stream.cinema.v2/plugin.video.webshare.stream.cinema.v2-2.5.1b3.zip"
+      "version": "2.5.1b4",
+      "zip": "plugin.video.webshare.stream.cinema.v2-2.5.1b4.zip",
+      "url": "https://obamaaaaa.github.io/kodi-repository/plugin.video.webshare.stream.cinema.v2/plugin.video.webshare.stream.cinema.v2-2.5.1b4.zip"
     }
   },
   "repository.webshare.streamcinema": {
@@ -20,9 +20,9 @@
   },
   "skin.estuary.streamcinema": {
     "stable": {
-      "version": "1.0.22",
-      "zip": "skin.estuary.streamcinema-1.0.22.zip",
-      "url": "https://obamaaaaa.github.io/kodi-repository/skin.estuary.streamcinema/skin.estuary.streamcinema-1.0.22.zip"
+      "version": "1.0.23",
+      "zip": "skin.estuary.streamcinema-1.0.23.zip",
+      "url": "https://obamaaaaa.github.io/kodi-repository/skin.estuary.streamcinema/skin.estuary.streamcinema-1.0.23.zip"
     }
   }
 }
