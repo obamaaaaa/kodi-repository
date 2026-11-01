@@ -2,7 +2,7 @@
 <addon 
     id="plugin.video.webshare.stream.cinema.v2" 
     name="Webshare Stream Cinema V2" 
-    version="2.5.1"
+    version="2.5.2"
     provider-name="dlazebnikostka">
 
     <requires>
@@ -16,6 +16,7 @@
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
     </extension>
+
 
     <extension point="xbmc.service" library="status_checker.py"/>
 
